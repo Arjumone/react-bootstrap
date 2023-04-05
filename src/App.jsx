@@ -51,7 +51,7 @@ function App() {
         <Card.Body>
           <Card.Title>Card title</Card.Title>
           <Card.Text>
-            This card has supporting text below as a natural lead-in to
+            This is card has supporting text below as a natural lead-in to
             additional content.{' '}
           </Card.Text>
         </Card.Body>
